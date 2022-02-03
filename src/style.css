@@ -87,3 +87,13 @@ h2{
     color:#0b4968;
     font-size: 1.5rem;
 }
+
+/*footer section style*/
+#wrapper #footer{
+    background-color: rgb(195, 194, 194);
+    width: 100%;
+    height:10%;
+    text-align: right;
+    padding: 20px;
+    font-size: 13pt;
+}
